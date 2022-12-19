@@ -58,19 +58,19 @@
     "url": "https://bankofindia.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/bankofindia.co.in.ico",
     "slug": "boi-corporate",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 3812,
-    "timeDay": 4077,
-    "timeWeek": 3812,
-    "timeMonth": 3812,
-    "timeYear": 3812,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 3346,
+    "timeDay": 3012,
+    "timeWeek": 3346,
+    "timeMonth": 3346,
+    "timeYear": 3346,
     "dailyMinutesDown": {
-      "2022-12-19": 1
+      "2022-12-19": 26
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "https://boiweb.bankofindia.co.in",
     "icon": "https://icons.duckduckgo.com/ip3/boiweb.bankofindia.co.in.ico",
     "slug": "boi-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2941,
-    "timeDay": 2882,
-    "timeWeek": 2941,
-    "timeMonth": 2941,
-    "timeYear": 2941,
+    "status": "up",
+    "uptime": "99.14%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
+    "time": 2853,
+    "timeDay": 2755,
+    "timeWeek": 2853,
+    "timeMonth": 2853,
+    "timeYear": 2853,
     "dailyMinutesDown": {
-      "2022-12-19": 0
+      "2022-12-19": 25
     }
   }
 ]
