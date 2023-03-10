@@ -1,7 +1,7 @@
 url: https://boiweb.bankofindia.co.in
-status: up
-code: 200
-responseTime: 1885
-lastUpdated: 2023-03-09T23:12:32.470Z
+status: down
+code: 503
+responseTime: 1232
+lastUpdated: 2023-03-10T15:40:57.987Z
 startTime: Sat Dec 17 2022 17:16:52 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
